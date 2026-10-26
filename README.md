@@ -1,11 +1,11 @@
 ## Hi, I'm 0xjc 👋
 
-Cloud-native engineer. Working with Kubernetes, Go and Java.
+### 🛠️ Tech stack
 
-- ☸️ Kubernetes / cloud-native infrastructure
 - 🐹 Go
 - ☕ Java
+- ☸️ Kubernetes / cloud-native
 
-### 🤝 Open source
+### 📫 How to reach me
 
-Contributing to [volcano-sh/kthena](https://github.com/volcano-sh/kthena) — a Kubernetes-native LLM serving platform.
+- GitHub Issues
