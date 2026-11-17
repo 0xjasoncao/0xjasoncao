@@ -17,4 +17,4 @@ Currently working as a Golang developer.
 
 ### 📊 GitHub stats
 
-<img src="https://ghstats.dev/api/card?username=0xjasoncao&theme=light&hide_title=true&border_radius=5&hide=week%2Cstreak%2Ctrend%2Chours" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/card?username=0xjasoncao&theme=light&hide_title=true&hide=week%2Cavg%2Cfollowers%2Crepos" alt="GitHub Stats Card" />
