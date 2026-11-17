@@ -17,5 +17,4 @@ Currently working as a Golang developer.
 
 ### 📊 GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xjasoncao&show_icons=true&hide_border=true" height="150"/>
-
+<img src="https://ghstats.dev/api/card?username=0xjasoncao&hide_title=true&border_radius=9" alt="GitHub Stats Card" />
